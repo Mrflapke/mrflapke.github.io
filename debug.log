@@ -1,0 +1,2 @@
+[1013/124614.068:ERROR:settings.cc(430)] Settings version is not 5
+[1013/130639.708:ERROR:directory_reader_win.cc(43)] FindFirstFile: Het systeem kan het opgegeven pad niet vinden. (0x3)
