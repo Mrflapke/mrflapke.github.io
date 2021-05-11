@@ -1,3 +1,16 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
 /**
 * Template Name: Day - v2.1.0
 * Template URL: https://bootstrapmade.com/day-multipurpose-html-template-for-free/
@@ -7,6 +20,10 @@
 !(function($) {
   "use strict";
 
+
+
+
+  3.
   // Preloader
   $(window).on('load', function() {
     if ($('#preloader').length) {
